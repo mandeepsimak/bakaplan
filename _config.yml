@@ -1,0 +1,8 @@
+title: C.vim
+description: C/C++ IDE --  Write and run programs. Insert statements, idioms, comments etc.
+google_analytics: UA-41752857-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
